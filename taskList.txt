@@ -1,0 +1,23 @@
+[
+ {
+  "Task": "Write some code :)"
+ },
+ {
+  "Task": "Go for a run"
+ },
+ {
+  "Task": "Do the dishes"
+ },
+ {
+  "Task": "Make dinner"
+ },
+ {
+  "Task": "Go shopping"
+ },
+ {
+  "Task": "Walk the dog"
+ },
+ {
+  "Task": "Go for a cycle"
+ }
+]
